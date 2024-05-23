@@ -1,16 +1,37 @@
-## Hi there 👋
+### About Me:
+I am a passionate Cyber Security student looking to get a job I can grow in. My dream is to become a professional
+pentester. I love learning new things esspecially if it come to Math, Cybersecurity, Gaming. 
 
-<!--
-**JackJohnsonGitHub/JackJohnsonGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Social Media:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Working on:
+
+## Languages and Tools
+<div>
+
+### Languages:
+| Python3 | C/C#/C+ | JS | Swift |
+|---------|---------|----|-------|
+| \ | \ | \ | \ |
+### Frameworks and Libraries:
+
+### Data Manipulation:
+
+### Enviroments, Testing, Other:
+
+### OS:
+| Linux | Ubuntu | Windows 7 | Windows 10 | Windows 11 | Kali | Parrot |
+|-------|--------|-----------|------------|------------|------|--------|
+| \ | \ | \ | \ | \ | \ | \ | \ |
+
+### PwnTools:
+| Nmap | WireShark | Burpsuit | Metaspoit |
+|------|-----------|----------|-----------|
+| \ | \ | \ | \ |
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
