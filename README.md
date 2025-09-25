@@ -6,30 +6,21 @@ pentester. I love learning new things esspecially if it come to Math, Cybersecur
 ### Social Media:
 
 
-### Working on:
 
-## Languages and Tools
-<div>
 
-### Languages:
-| Python3 | C/C#/C+ | JS | Swift |
-|---------|---------|----|-------|
-| \ | \ | \ | \ |
-### Frameworks and Libraries:
 
-### Data Manipulation:
 
-### Enviroments, Testing, Other:
 
-### OS:
-| Linux | Ubuntu | Windows 7 | Windows 10 | Windows 11 | Kali | Parrot |
-|-------|--------|-----------|------------|------------|------|--------|
-| \ | \ | \ | \ | \ | \ | \ | \ |
 
-### PwnTools:
-| Nmap | WireShark | Burpsuit | Metaspoit |
-|------|-----------|----------|-----------|
-| \ | \ | \ | \ |
+
+
+
+
+
+
+
+
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
