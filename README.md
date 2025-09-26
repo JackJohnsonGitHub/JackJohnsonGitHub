@@ -8,9 +8,11 @@ Alongside my technical journey, I hold a patent, am CompTIA Security+ certified,
 I’m eager to contribute my skills in cybersecurity, DevOps, and IT infrastructure to innovative teams and projects that drive secure digital transformation.
 
 ### Operating Systems
+|---|---|---|---|---|
 | [<img width="1000" src="assets/archbtw_icon.png" alt="archbtw"/>](https://omarchy.org/) | [<img width="1000" src="assets/windows_icon.png" alt="Window 11"/>](https://www.microsoft.com/en-us/software-download/windows11) | [<img width="1000" src="assets/ubuntu_icon.png" alt="Ubuntu"/>](https://ubuntu.com/download/desktop) | [<img width="1000" src="assets/Parrot-Security.svg" alt="Parrot"/>](https://parrotsec.org/download/) | [<img width="1000" src="assets/proxmox_icon.png" alt="Proxmo"/>](https://www.proxmox.com/en/downloads) | 
 
 ### Social Media:
+|---|---|---|---|---|
 | [<img width="1000" src="assets/linkedin_icon.png" alt="LinkedIN"/>](https://www.linkedin.com/in/vikrammalkan/) | [<img width="1000" src="assets/github_icon.png" alt="GitHub"/>](https://github.com/JackJohnsonGitHub) | [<img width="1000" src="assets/discord_icon.png" alt="Discord"/>](https://discord.gg/kRAKakXd) | [<img width="1000" src="assets/" alt="XFTF.com"/>](https://example.com) |
 
 
