@@ -15,7 +15,7 @@ I’m eager to contribute my skills in cybersecurity, DevOps, and IT infrastruct
 ### Social Media:
 | LinkedIn | GitHub | Discord | XFTF |
 |---|---|---|---|
-| [<img width="1000" src="assets/linkedin_icon.png" alt="LinkedIN"/>](https://www.linkedin.com/in/vikrammalkan/) | [<img width="1000" src="assets/github_icon.png" alt="GitHub"/>](https://github.com/JackJohnsonGitHub) | [<img width="1000" src="assets/discord_icon.png" alt="Discord"/>](https://discord.gg/kRAKakXd) | [<img width="1000" src="assets/" alt="XFTF.com"/>](https://example.com) |
+| [<img width="1000" src="assets/linkedin_icon.png" alt="LinkedIN"/>](https://www.linkedin.com/in/vikrammalkan/) | [<img width="1000" src="assets/github_icon.png" alt="GitHub"/>](https://github.com/JackJohnsonGitHub) | [<img width="1000" src="assets/discord_icon.png" alt="Discord"/>](https://discord.gg/kRAKakXd) | [<img width="1000" src="assets/" alt="XFTF.com"/>](https://www.youtube.com/@jack_johnsongftf) |
 
 
 
