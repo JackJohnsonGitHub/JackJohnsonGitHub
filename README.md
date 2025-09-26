@@ -10,7 +10,7 @@ I’m eager to contribute my skills in cybersecurity, DevOps, and IT infrastruct
 ### Operating Systems
 | Arch-BTW | Windows | Ubuntu | Parrot | Proxmox |
 |---|---|---|---|---|
-| [<img width="1000" src="assets/archbtw_icon.png" alt="archbtw"/>](https://omarchy.org/) | [<img width="1000" src="assets/windows_icon.png" alt="Window 11"/>](https://www.microsoft.com/en-us/software-download/windows11) | [<img width="1000" src="assets/ubuntu_icon.png" alt="Ubuntu"/>](https://ubuntu.com/download/desktop) | [<img width="1000" src="assets/Parrot-Security.svg" alt="Parrot"/>](https://parrotsec.org/download/) | [<img width="1000" src="assets/proxmox_icon.png" alt="Proxmo"/>](https://www.proxmox.com/en/downloads) | 
+| [<img width="240" src="assets/archbtw_icon.png" alt="archbtw"/>](https://omarchy.org/) | [<img width="240" src="assets/windows_icon.png" alt="Window 11"/>](https://www.microsoft.com/en-us/software-download/windows11) | [<img width="240" src="assets/ubuntu_icon.png" alt="Ubuntu"/>](https://ubuntu.com/download/desktop) | [<img width="240" src="assets/Parrot-Security.svg" alt="Parrot"/>](https://parrotsec.org/download/) | [<img width="240" src="assets/proxmox_icon.png" alt="Proxmo"/>](https://www.proxmox.com/en/downloads) | 
 
 ### Social Media:
 | LinkedIn | GitHub | Discord | XFTF |
