@@ -16,7 +16,7 @@ I’m eager to contribute my skills in cybersecurity, DevOps, and IT infrastruct
 ### Social Media:
 | [LinkedIn](https://www.linkedin.com/in/vikrammalkan/) | [GitHub](https://github.com/JackJohnsonGitHub) | [Discord](https://discord.gg/kRAKakXd) | [Website](https://example.com) |
 |---|---|---|---|
-| <img width="1000" src="assets/" alt="LinkedIN"/> | <img width="1000" src="assets/" alt="GitHub"/> | <img width="1000" src="assets/" alt="Discord"/> | <img width="1000" src="assets/" alt="XFTF.com"/> |
+| <img width="1000" src="assets/linkeding" alt="LinkedIN"/> | <img width="1000" src="assets/" alt="GitHub"/> | <img width="1000" src="assets/" alt="Discord"/> | <img width="1000" src="assets/" alt="XFTF.com"/> |
 
 
 
