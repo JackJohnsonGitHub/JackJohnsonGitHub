@@ -4,9 +4,9 @@ pentester. I love learning new things esspecially if it come to Math, IT, Cybers
 
 
 ### Operating Systems
-| Arch-Linux | OMARCHY | Windows-7 | Windows-11 | Ubuntu | Parrot-Security | Proxmox |
-|---|---|---|---|---|---|---|
-| <img width="1000" src="assets/Archlinux_icon.svg" alt="archbtw"/> | Image | <img width="1000" src="assets/Windows-7.jpg" alt="Win-7"/> | Image | Image | image | Image |
+| Arch-Linux | Windows-11 | Ubuntu | Parrot-Security | Proxmox |
+|---|---|---|---|---|
+| <img width="1000" src="assets/archbtw_icon.png" alt="archbtw"/> | <img width="1000" src="assets/windows_icon.png" alt="Window 11"/> | <img width="1000" src="assets/ubuntu_icon.png" alt="Ubuntu"/> | <img width="1000" src="assets/Parrot-Security.svg" alt="Parrot"/> | Proxmox |
 
 ### Social Media:
 
