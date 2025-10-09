@@ -7,6 +7,7 @@ Alongside my technical journey, I hold a patent, am CompTIA Security+ certified,
 
 I’m eager to contribute my skills in cybersecurity, DevOps, and IT infrastructure to innovative teams and projects that drive secure digital transformation.
 
+
 ### Operating Systems
 | Arch-BTW | Windows | Ubuntu | Parrot | Proxmox |
 |---|---|---|---|---|
@@ -15,7 +16,7 @@ I’m eager to contribute my skills in cybersecurity, DevOps, and IT infrastruct
 ### Social Media:
 | LinkedIn | GitHub | Discord | XFTF |
 |---|---|---|---|
-| [<img width="1000" src="assets/linkedin_icon.png" alt="LinkedIN"/>](https://www.linkedin.com/in/vikrammalkan/) | [<img width="1000" src="assets/github_icon.png" alt="GitHub"/>](https://github.com/JackJohnsonGitHub) | [<img width="1000" src="assets/discord_icon.png" alt="Discord"/>](https://discord.gg/kRAKakXd) | [<img width="1000" src="assets/youtube_icon.png" alt="XFTF.com"/>](https://www.youtube.com/@jack_johnsongftf) |
+| [<img width="1000" src="assets/linkedin_icon.png" alt="LinkedIN"/>](https://www.linkedin.com/in/vikrammalkan/) | [<img width="1000" src="assets/github_icon.png" alt="GitHub"/>](https://github.com/JackJohnsonGitHub) | [<img width="1000" src="assets/discord_icon.png" alt="Discord"/>](https://discord.gg/qXKG3JBMrt) | [<img width="1000" src="assets/youtube_icon.png" alt="XFTF.com"/>](https://www.youtube.com/@jack_johnsongftf) |
 
 
 
